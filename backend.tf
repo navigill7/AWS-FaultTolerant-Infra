@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "State_bucket" {
-  bucket = "scalable-infra-bucket-752"
+  bucket = "scalable-infra-bucket-777"
   
 }
 resource "aws_s3_bucket_versioning" "version_s3" {
